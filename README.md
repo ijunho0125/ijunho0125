@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./images/banner.png" width="800" alt="Planner Banner">
+  <img src="banner.png" width="800" alt="Planner Banner">
   
   <br/>
-## leejunho, a Planner Who Turns Imagination into Reality
+**leejunho, a Planner Who Turns Imagination into Reality**
 
 > **"Starting with a Question Mark(?), Completing with an Exclamation Mark(!)."**
 > Hello! I am **leejunho**, a planner who enjoys turning wild imaginations into concrete plans and finally bringing them to life.
